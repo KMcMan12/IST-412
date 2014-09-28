@@ -201,7 +201,10 @@ public class LoginScreen extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jtfPIinActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jtfPIinActionPerformed
-        // TODO add your handling code here:
+        //I also have a password field set up for my login.  But I have this code set up for each number button
+        //If you have a more efficent way let me know.
+        //String btn1Text = pinField.getText() + btn1.getText();
+        //pinField.setText(btn1Text);
     }//GEN-LAST:event_jtfPIinActionPerformed
 
     /**
