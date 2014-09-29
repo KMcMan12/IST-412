@@ -17,6 +17,7 @@ public class ATM {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //I assume that the tieing together part happens in the main of the main file.
     }
     
 }
